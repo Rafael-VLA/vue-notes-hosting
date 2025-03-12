@@ -41,7 +41,7 @@ const routes = [
 
 // Configuramos el enrutador con las rutas y el modo de historia
 export const router = createRouter({
-    history: createWebHistory(),
+    history: createMemoryHistory(),
     routes, //routes: routes
     linkActiveClass: "active",
     linkExactActiveClass: "active"
