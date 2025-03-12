@@ -1,6 +1,6 @@
 <template>
 <div class="d-flex justify-content-between items-align-center">
-    <h1 class="h3 mb-0">Tus notas</h1>
+    <h1 class="h3 mb-0">Mis notas</h1>
 
     <div>
       <button
